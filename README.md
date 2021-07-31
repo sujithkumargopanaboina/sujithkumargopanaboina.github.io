@@ -1,3 +1,3 @@
-# JyothiPrasanna768.github.io
+# sujithkumargopanaboina.github.io
 
 This repository represents my portfolio.
